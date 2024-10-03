@@ -3,8 +3,9 @@ Proyecto Universitario
 
 Presentación de como se ve la apliación y todas sus funcionalidades:
 
-LOG IN / REGISTRO:
-![image](https://github.com/user-attachments/assets/c5acb930-2848-43f2-9a1a-5d81ce456e41)
+LOG IN / REGISTRO:+
+
+![image](https://github.com/user-attachments/assets/0ce27136-a47d-466b-9145-e028480c8779)
 
 MAPAS:
 

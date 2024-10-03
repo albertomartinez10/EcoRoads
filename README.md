@@ -5,7 +5,8 @@ Presentación de como se ve la apliación y todas sus funcionalidades:
 
 LOG IN / REGISTRO:+
 
-![image](https://github.com/user-attachments/assets/0ce27136-a47d-466b-9145-e028480c8779)
+![image](https://github.com/user-attachments/assets/9c62449e-7853-4c09-bc55-47ec22cc72e3)
+
 
 MAPAS:
 

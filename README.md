@@ -3,23 +3,23 @@ Proyecto Universitario
 
 Presentación de como se ve la apliación y todas sus funcionalidades:
 
-LOG IN / REGISTRO:+
+                                      LOG IN / REGISTRO:+
 
 ![image](https://github.com/user-attachments/assets/9c62449e-7853-4c09-bc55-47ec22cc72e3)
 
 
-MAPAS:
+                                      MAPAS:
 
 ![image](https://github.com/user-attachments/assets/b642552d-0889-40d1-ad31-f825ccd2c870)
 
-LOGROS:
+                                      LOGROS:
 
 ![image](https://github.com/user-attachments/assets/c575fe6c-2560-43fd-a33f-b4e2f7036ce9)
 
-MODIFICACIÓN PERFIL:
-
+                                      MODIFICACIÓN PERFIL:
+                          
 ![image](https://github.com/user-attachments/assets/7c6ef2d5-9447-49b0-abe9-5c1b818cecd3)
 
-CHAT:
+                                      CHAT:
 
 ![image](https://github.com/user-attachments/assets/9f8c203a-9023-4d17-ba0a-9a8aff2729e9)
